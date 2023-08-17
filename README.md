@@ -1,5 +1,8 @@
 # Overview
-Place for my code when learning NextJS
+Place for my code when learning NextJS. 
+
+## App Info
+- A very bare bones note taking app
 
 ## Tech used
 - NextJS 
