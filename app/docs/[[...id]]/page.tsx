@@ -1,5 +1,5 @@
 const DocsIdPage = ({ params }) => {
-  return <div>Docs Id: {params.id} Page</div>;
+  return <div>Docs Page with params: {params.id} </div>;
 };
 
 export default DocsIdPage;
