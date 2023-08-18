@@ -7,7 +7,8 @@ Place for my code when learning NextJS.
 ## Tech used
 - NextJS 
 - Tailwind
-- Prisma 
+- Prisma
+- SQLite : a file, not a real DB
 - NodeJS
 
 
