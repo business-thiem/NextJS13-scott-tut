@@ -1,8 +1,4 @@
-import { useState } from 'react';
-
-const NewTodoForm = () => {
-  const [state, updateState] = useState('');
-
+const NewTodoForm = ({}) => {
   return (
     <div>
       <form>
