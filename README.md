@@ -14,5 +14,5 @@ Place for my code when learning NextJS.
 Link to course notes and future references: https://scottmoss.notion.site/scottmoss/Intro-to-Next-js-V3-6cefbdba58d94e3897dcb8d7e7fc0337 
 
 
-### .env 
+### .env (always ignored on commits)
 - Use `DATABASE_URL="file:./dev.db"`
