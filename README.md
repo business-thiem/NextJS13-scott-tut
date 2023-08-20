@@ -1,6 +1,6 @@
 # Overview
 
-Place for my code when learning NextJS.
+Place for my code when learning NextJS. And future referencing of barebones NextJS sample code
 
 ## App Info
 
@@ -8,11 +8,11 @@ Place for my code when learning NextJS.
 
 ## Tech used
 
-- NextJS
-- Tailwind
-- Prisma
+- NextJS : server-sided logic for server-sided rendering (SSR), great for SEO, makes loading pages faster for client. Must opt into 'use client' react scripts
+- Tailwind : CSS library
+- Prisma : ORM, create tables in a human-readable way
 - SQLite : a file, not a real DB
-- NodeJS
+- NodeJS : JS package manager
 
 Link to course notes and future references: https://scottmoss.notion.site/scottmoss/Intro-to-Next-js-V3-6cefbdba58d94e3897dcb8d7e7fc0337
 
