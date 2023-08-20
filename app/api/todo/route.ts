@@ -8,5 +8,8 @@ export const GET = async (request: Request) => {
 
 export const POST = async (request: Request) => {
   const data = await request.json();
-  return NextResponse.json({ message: data });
+  const todo = await db.todo.create({
+    data,
+  });
+  return NextResponse.json({ message: todo });
 };
